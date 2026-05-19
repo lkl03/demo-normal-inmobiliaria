@@ -1,2 +1,7 @@
-# demo-normal-inmobiliaria
-Demo web para Normal Inmobiliaria — diseñada por eterlab.
+# Normal Inmobiliaria
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
